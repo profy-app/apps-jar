@@ -1,5 +1,5 @@
 domain: appsjar.net # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://profy-shopify.github.io/apps-jar # the base hostname and protocol for your site, e.g. http://example.com
+url: https://appsjar.net # the base hostname and protocol for your site, e.g. http://example.com
 baseurl:
 
 #page title
