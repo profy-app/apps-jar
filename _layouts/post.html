@@ -1,0 +1,124 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html foo=light %}
+
+<body class="subPageBody">
+    <div class="headerBackground subPageHeaderBackground">
+        <div class="container subPageContainer">
+            {% include header.html %}
+            <article class="page markdown-body blogPost">
+                <div class="postLayout">
+                    <div class="postContent">
+                        <p class="blogMeta">{{ page.date | date: "%b %-d, %Y" }}</p>
+                        <h1>{{ page.title }}</h1>
+                        {{ content }}
+                        <p class="blogBackLink"><a href="{{ '/' | relative_url }}">← Back to main page</a></p>
+                    </div>
+
+                    <aside class="postSidebar">
+                        <h3>More articles</h3>
+                        <ul>
+                            {% for post in site.posts %}
+                            <li>
+                                <a href="{{ post.url | relative_url }}" {% if post.url == page.url %}class="active"{% endif %}>
+                                    {{ post.title }}
+                                </a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </aside>
+                </div>
+            </article>
+
+            <div class="imageLightbox" hidden aria-hidden="true">
+                <button class="imageLightboxClose" type="button" aria-label="Close enlarged image">×</button>
+                <figure class="imageLightboxFigure">
+                    <img class="imageLightboxImage" alt="">
+                    <figcaption class="imageLightboxCaption"></figcaption>
+                </figure>
+            </div>
+        </div>
+        {% include appstoreimages.html %}
+    </div>
+
+    <script>
+        (function () {
+            var blogImages = document.querySelectorAll('.blogPost img');
+            blogImages.forEach(function (image) {
+                if (!image.hasAttribute('loading')) {
+                    image.setAttribute('loading', 'lazy');
+                }
+                if (!image.hasAttribute('decoding')) {
+                    image.setAttribute('decoding', 'async');
+                }
+            });
+
+            var lightbox = document.querySelector('.imageLightbox');
+            if (!lightbox) {
+                return;
+            }
+
+            var lightboxImage = lightbox.querySelector('.imageLightboxImage');
+            var lightboxCaption = lightbox.querySelector('.imageLightboxCaption');
+            var closeButton = lightbox.querySelector('.imageLightboxClose');
+            var figureImages = document.querySelectorAll('.blogPost figure img');
+
+            function closeLightbox() {
+                lightbox.hidden = true;
+                lightbox.setAttribute('aria-hidden', 'true');
+                lightboxImage.removeAttribute('src');
+                lightboxImage.alt = '';
+                lightboxCaption.textContent = '';
+                document.body.classList.remove('lightboxOpen');
+            }
+
+            function openLightbox(image) {
+                var caption = image.closest('figure').querySelector('figcaption');
+                lightboxImage.src = image.currentSrc || image.src;
+                lightboxImage.alt = image.alt || '';
+                lightboxCaption.textContent = caption ? caption.textContent : '';
+                lightbox.hidden = false;
+                lightbox.setAttribute('aria-hidden', 'false');
+                document.body.classList.add('lightboxOpen');
+            }
+
+            figureImages.forEach(function (image) {
+                image.tabIndex = 0;
+                image.setAttribute('role', 'button');
+                image.setAttribute('aria-label', (image.alt || 'Article image') + '. Click to enlarge');
+
+                image.addEventListener('click', function () {
+                    openLightbox(image);
+                });
+
+                image.addEventListener('keydown', function (event) {
+                    if (event.key === 'Enter' || event.key === ' ') {
+                        event.preventDefault();
+                        openLightbox(image);
+                    }
+                });
+            });
+
+            closeButton.addEventListener('click', closeLightbox);
+
+            lightbox.addEventListener('click', function (event) {
+                if (event.target === lightbox) {
+                    closeLightbox();
+                }
+            });
+
+            document.addEventListener('keydown', function (event) {
+                if (event.key === 'Escape' && !lightbox.hidden) {
+                    closeLightbox();
+                }
+            });
+        }());
+    </script>
+</body>
+
+</html>
