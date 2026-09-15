@@ -610,6 +610,16 @@ nav > ul li a:active {
 	color: rgba(#000, 1);
 }
 
+.subPageHeaderBackground nav > ul li .subnav a:link,
+.subPageHeaderBackground nav > ul li .subnav a:visited {
+	color: rgba(255, 255, 255, 0.8);
+}
+
+.subPageHeaderBackground nav > ul li .subnav a:hover,
+.subPageHeaderBackground nav > ul li .subnav a:active {
+	color: #ffffff;
+}
+
 
 
 // App Title, Price, Description and Links

@@ -17,7 +17,10 @@ Many Shopify themes include a simple announcement bar, but it is not sticky. As 
 ### Types of announcement bars and banners
 
 <figure>
-  <img src="/assets/marquee.webp" alt="Scrolling text / animated announcement bar" loading="eager"        fetchpriority="high"
+  <img src="/assets/marquee.webp" alt="Scrolling text / animated announcement bar" 
+  height="28"
+  loading="eager"        
+  fetchpriority="high"
     decoding="async">
   <figcaption>Scrolling text / animated announcement bar</figcaption>
 </figure>
@@ -25,7 +28,9 @@ Many Shopify themes include a simple announcement bar, but it is not sticky. As 
 Display large text in a single line with marquee and scrolling text animation.
 
 <figure>
-  <img src="/assets/slider_banner.gif" alt="Sliding announcement bar" loading="eager"
+  <img src="/assets/slider_banner.gif" alt="Sliding announcement bar"
+  height="52"
+  loading="eager"
   fetchpriority="high" 
   decoding="async">
   <figcaption>Sliding announcement bar</figcaption>
@@ -34,7 +39,9 @@ Display large text in a single line with marquee and scrolling text animation.
 Combine multiple announcements in one banner where each slide changes every few seconds.
 
 <figure>
-  <img src="/assets/coupon_code_bar.png" alt="Coupon code bar" loading="eager"
+  <img src="/assets/coupon_code_bar.png" alt="Coupon code bar"
+    height="63"
+   loading="eager"
   fetchpriority="high" 
   decoding="async">
   <figcaption>Coupon code bar</figcaption>
