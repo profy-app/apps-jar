@@ -17,21 +17,26 @@ Many Shopify themes include a simple announcement bar, but it is not sticky. As 
 ### Types of announcement bars and banners
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:1000/1*5tvdjmZ9Y3UtFZHljWzdgA.gif" alt="Scrolling text / animated announcement bar">
+  <img src="/assets/marquee.webp" alt="Scrolling text / animated announcement bar" loading="eager"        fetchpriority="high"
+    decoding="async">
   <figcaption>Scrolling text / animated announcement bar</figcaption>
 </figure>
 
 Display large text in a single line with marquee and scrolling text animation.
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*62InsJhEzGY8Ia7USS7nag.gif" alt="Sliding announcement bar">
+  <img src="/assets/slider_banner.gif" alt="Sliding announcement bar" loading="eager"
+  fetchpriority="high" 
+  decoding="async">
   <figcaption>Sliding announcement bar</figcaption>
 </figure>
 
 Combine multiple announcements in one banner where each slide changes every few seconds.
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*-TNg8NmC6cREvm1sIKYr6Q.png" alt="Coupon code bar">
+  <img src="/assets/coupon_code_bar.png" alt="Coupon code bar" loading="eager"
+  fetchpriority="high" 
+  decoding="async">
   <figcaption>Coupon code bar</figcaption>
 </figure>
 
@@ -46,19 +51,22 @@ Hence I need to create a sticky announcement bar with the text “$20 off on LED
 We will learn how to create a simple announcement bar and then customize it into an animated scrolling or sliding bar with multiple announcements.
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*UljUN-9-GaYPJm39FVxjoA.png" alt="Shopify product I want to promote">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*UljUN-9-GaYPJm39FVxjoA.png" alt="Shopify product I want to promote" loading="lazy"
+    decoding="async">
   <figcaption>Shopify product I want to promote</figcaption>
 </figure>
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*cp1h40ScIUW_YRojY4piFA.png" alt="Final result of announcement banner">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*cp1h40ScIUW_YRojY4piFA.png" alt="Final result of announcement banner" loading="lazy"
+    decoding="async">
   <figcaption>Final result of announcement banner</figcaption>
 </figure>
 
 ### 1) Install the “Profy Banner & Countdown Timer” Shopify app
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*B-MbYmbPKdUcLSMKk6ysJw.png" alt="Profy app page">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*B-MbYmbPKdUcLSMKk6ysJw.png" alt="Profy app page" loading="lazy"
+    decoding="async">
   <figcaption>Profy app page</figcaption>
 </figure>
 
@@ -71,7 +79,8 @@ Unlike other apps that require separate solutions for announcement bars and coun
 ### 2) Enable app embed
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:598/1*6Egg7tlYWPD_VBmfwQyapg.png" alt="Enable app embed">
+  <img src="https://miro.medium.com/v2/resize:fit:598/1*6Egg7tlYWPD_VBmfwQyapg.png" alt="Enable app embed" loading="lazy"
+    decoding="async">
   <figcaption>Enable app embed</figcaption>
 </figure>
 
@@ -80,26 +89,30 @@ After installing the app, enable **App Embed** to display the banners on your st
 ### 3) Click on Create Banner and select “Announcement”
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*pzD-7yjmQ-7Lm85HryDVkQ.png" alt="Create banner button in dashboard">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*pzD-7yjmQ-7Lm85HryDVkQ.png" alt="Create banner button in dashboard" loading="lazy"
+    decoding="async">
   <figcaption>Create banner button in dashboard</figcaption>
 </figure>
 
 From the dashboard, click **Create Banner** → select **Top / Bottom Bar** → choose **Announcement Banner** → select **Single Message** to create the initial announcement bar, which can later be updated to animated and sliding versions.
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*6ZTvePEoUygRvQL5YKV9Mg.png" alt="Placement options">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*6ZTvePEoUygRvQL5YKV9Mg.png" alt="Placement options" loading="lazy"
+    decoding="async">
   <figcaption>Placement options</figcaption>
 </figure>
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*wlDcBpSwzeAssbdHAIoang.png" alt="Announcement banner option">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*wlDcBpSwzeAssbdHAIoang.png" alt="Announcement banner option" loading="lazy"
+    decoding="async">
   <figcaption>Announcement banner option</figcaption>
 </figure>
 
 ### 4) Enter a banner message and destination URL
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*VTdPBfJJeN4iBswnsClmNg.png" alt="Banner details section">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*VTdPBfJJeN4iBswnsClmNg.png" alt="Banner details section" loading="lazy"
+    decoding="async">
   <figcaption>Banner details section</figcaption>
 </figure>
 
@@ -108,21 +121,24 @@ On the **Edit Banner** page, enter the **banner name** and update the **banner m
 ### 5) Select target pages and device
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*kCeI97xcInqEKp8NNTC-NQ.png" alt="Single announcement bar">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*kCeI97xcInqEKp8NNTC-NQ.png" alt="Single announcement bar" loading="lazy"
+    decoding="async">
   <figcaption>Single announcement bar</figcaption>
 </figure>
 
 For a single-announcement banner, select **Simple Banner** under **Banner Setup → Announcement Setup → Announcement Type**.
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:1000/1*cgtBFXjLZv4G19Bka9bgeg.png" alt="Configure scrolling text / animated announcement bar">
+  <img src="https://miro.medium.com/v2/resize:fit:1000/1*cgtBFXjLZv4G19Bka9bgeg.png" alt="Configure scrolling text / animated announcement bar" loading="lazy"
+    decoding="async">
   <figcaption>Configure scrolling text / animated announcement bar</figcaption>
 </figure>
 
 For an animated announcement bar, select **Scrolling Text** as the announcement type and adjust the **animation speed** from slow to fast.
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*-6WNtGP9yu-OuOzYc9nmFw.png" alt="Configure sliding announcement bar">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*-6WNtGP9yu-OuOzYc9nmFw.png" alt="Configure sliding announcement bar" loading="lazy"
+    decoding="async">
   <figcaption>Configure sliding announcement bar</figcaption>
 </figure>
 
@@ -131,7 +147,8 @@ For multiple announcements in a single bar, select **Sliding Announcement Bar**.
 ### 6) Select target pages and device
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*Q7FrDpnAzvqVLu7UGcp-ww.png" alt="Banner targeting options">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*Q7FrDpnAzvqVLu7UGcp-ww.png" alt="Banner targeting options" loading="lazy"
+    decoding="async">
   <figcaption>Banner targeting options</figcaption>
 </figure>
 
@@ -146,7 +163,8 @@ In this example, we’ll configure the banner to **hide on the destination produ
 ### 7) Customize banner design based on your Shopify theme
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*-PbfsX3P8zpWgxGmM0AJNQ.png" alt="Style settings">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*-PbfsX3P8zpWgxGmM0AJNQ.png" alt="Style settings" loading="lazy"
+    decoding="async">
   <figcaption>Style settings</figcaption>
 </figure>
 
@@ -155,7 +173,8 @@ Customize the banner in **Style Settings** by adjusting **colors, font size, hei
 ### 8) Configure banner position
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*mFmLS1Uo7XP7AkfxNquFKQ.png" alt="Visibility settings">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*mFmLS1Uo7XP7AkfxNquFKQ.png" alt="Visibility settings" loading="lazy"
+    decoding="async">
   <figcaption>Visibility settings</figcaption>
 </figure>
 
@@ -166,7 +185,8 @@ For this example, select **Top** and enable **Sticky** to keep the banner fixed 
 ### 9) Save and view results on the store
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*cp1h40ScIUW_YRojY4piFA.png" alt="Final result">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*cp1h40ScIUW_YRojY4piFA.png" alt="Final result" loading="lazy"
+    decoding="async">
   <figcaption>Final result</figcaption>
 </figure>
 
