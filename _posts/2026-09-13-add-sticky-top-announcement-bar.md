@@ -58,13 +58,13 @@ Hence I need to create a sticky announcement bar with the text “$20 off on LED
 We will learn how to create a simple announcement bar and then customize it into an animated scrolling or sliding bar with multiple announcements.
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*UljUN-9-GaYPJm39FVxjoA.png" alt="Shopify product I want to promote" loading="lazy"
+  <img src="/assets/article1/product_promote.webp" alt="Shopify product I want to promote" loading="lazy"
     decoding="async">
   <figcaption>Shopify product I want to promote</figcaption>
 </figure>
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*cp1h40ScIUW_YRojY4piFA.png" alt="Final result of announcement banner" loading="lazy"
+  <img src="/assets/article1/final_result.webp" alt="Final result of announcement banner" loading="lazy"
     decoding="async">
   <figcaption>Final result of announcement banner</figcaption>
 </figure>
@@ -72,7 +72,7 @@ We will learn how to create a simple announcement bar and then customize it into
 ### 1) Install the “Profy Banner & Countdown Timer” Shopify app
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*B-MbYmbPKdUcLSMKk6ysJw.png" alt="Profy app page" loading="lazy"
+  <img src="/assets/article1/app_homepage.webp" alt="Profy app page" loading="lazy"
     decoding="async">
   <figcaption>Profy app page</figcaption>
 </figure>
@@ -86,7 +86,7 @@ Unlike other apps that require separate solutions for announcement bars and coun
 ### 2) Enable app embed
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:598/1*6Egg7tlYWPD_VBmfwQyapg.png" alt="Enable app embed" loading="lazy"
+  <img src="/assets/article1/enable_app.webp" alt="Enable app embed" loading="lazy"
     decoding="async">
   <figcaption>Enable app embed</figcaption>
 </figure>
@@ -96,7 +96,7 @@ After installing the app, enable **App Embed** to display the banners on your st
 ### 3) Click on Create Banner and select “Announcement”
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*pzD-7yjmQ-7Lm85HryDVkQ.png" alt="Create banner button in dashboard" loading="lazy"
+  <img src="/assets/article1/create_banner.webp" alt="Create banner button in dashboard" loading="lazy"
     decoding="async">
   <figcaption>Create banner button in dashboard</figcaption>
 </figure>
@@ -104,13 +104,13 @@ After installing the app, enable **App Embed** to display the banners on your st
 From the dashboard, click **Create Banner** → select **Top / Bottom Bar** → choose **Announcement Banner** → select **Single Message** to create the initial announcement bar, which can later be updated to animated and sliding versions.
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*6ZTvePEoUygRvQL5YKV9Mg.png" alt="Placement options" loading="lazy"
+  <img src="/assets/article1/placement_option.webp" alt="Placement options" loading="lazy"
     decoding="async">
   <figcaption>Placement options</figcaption>
 </figure>
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*wlDcBpSwzeAssbdHAIoang.png" alt="Announcement banner option" loading="lazy"
+  <img src="/assets/article1/banner_option.webp" alt="Announcement banner option" loading="lazy"
     decoding="async">
   <figcaption>Announcement banner option</figcaption>
 </figure>
@@ -118,7 +118,7 @@ From the dashboard, click **Create Banner** → select **Top / Bottom Bar** → 
 ### 4) Enter a banner message and destination URL
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*VTdPBfJJeN4iBswnsClmNg.png" alt="Banner details section" loading="lazy"
+  <img src="/assets/article1/banner_details.webp" alt="Banner details section" loading="lazy"
     decoding="async">
   <figcaption>Banner details section</figcaption>
 </figure>
@@ -128,7 +128,7 @@ On the **Edit Banner** page, enter the **banner name** and update the **banner m
 ### 5) Select target pages and device
 
 <figure>
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*kCeI97xcInqEKp8NNTC-NQ.png" alt="Single announcement bar" loading="lazy"
+  <img src="/assets/article1/banner_setup.webp" alt="Single announcement bar" loading="lazy"
     decoding="async">
   <figcaption>Single announcement bar</figcaption>
 </figure>
