@@ -28,6 +28,13 @@
 	<nav class="scroll">
 		<ul>
 			<li><a href="{{ '/' | relative_url }}" target="_self">Home</a></li>
+			<li class="productsNav" aria-haspopup="true">
+				<a href="javascript:void(0)" target="_self" aria-expanded="false">Products</a>
+				<ul class="subnav">
+					<li><a href="{{ '/profy-banner-countdown-timer/' | relative_url }}" target="_self">Profy Banner &amp; Countdown timer</a></li>
+					<li><a href="{{ '/profy-buy-x-get-y-free-gift/' | relative_url }}" target="_self">Profy Buy X Get Y + Free gift</a></li>
+				</ul>
+			</li>
 			{% for page in site.pages %}
 			{% if page.include_in_header == true %}
 			<li><a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a></li>
@@ -40,4 +47,35 @@
 			{% endif %} -->
 		</ul>
 	</nav>
+	<script>
+		document.addEventListener('DOMContentLoaded', function() {
+			var productsNav = document.querySelector('.productsNav');
+			if (!productsNav) return;
+
+			var trigger = productsNav.querySelector('a');
+			var subnav = productsNav.querySelector('.subnav');
+			if (!trigger || !subnav) return;
+
+			function closeMenu() {
+				productsNav.classList.remove('open');
+				trigger.setAttribute('aria-expanded', 'false');
+			}
+
+			trigger.addEventListener('click', function(event) {
+				event.preventDefault();
+				var isOpen = productsNav.classList.contains('open');
+				closeMenu();
+				if (!isOpen) {
+					productsNav.classList.add('open');
+					trigger.setAttribute('aria-expanded', 'true');
+				}
+			});
+
+			document.addEventListener('click', function(event) {
+				if (!productsNav.contains(event.target)) {
+					closeMenu();
+				}
+			});
+		});
+	</script>
 </header>
