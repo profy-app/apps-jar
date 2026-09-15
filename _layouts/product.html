@@ -8,16 +8,6 @@
         <div class="headerBackground">
             <div class="container">
                 {% include header.html %}
-                <div class="productVideoShell">
-                    <div class="iphonePreview">
-                        <div class="videoContainer">
-                            <iframe width="560" height="315" src="{{ page.youtube_embed_url | default: 'https://www.youtube.com/embed/TAx_VFU9YfM' }}"
-                                title="YouTube video player" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen></iframe>
-                        </div>
-                    </div>
-                </div>
                 <div class="appInfo">
                     <div class="appIconShadow">
                         <svg width="0" height="0">
@@ -54,6 +44,16 @@
                     <a class="mobileDemoButton" href="{{ page.youtube_embed_url | default: 'https://www.youtube.com/watch?v=TAx_VFU9YfM' }}" target="_blank" rel="noopener noreferrer">
                         Watch demo video
                     </a>
+                </div>
+                <div class="productVideoShell">
+                    <div class="iphonePreview">
+                        <div class="videoContainer">
+                            <iframe width="560" height="315" src="{{ page.youtube_embed_url | default: 'https://www.youtube.com/embed/TAx_VFU9YfM' }}"
+                                title="YouTube video player" frameborder="0" loading="lazy" fetchpriority="low"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                        </div>
+                    </div>
                 </div>
                 {{ content }}
                 {% include footer.html %}
