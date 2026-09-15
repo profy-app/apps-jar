@@ -12,14 +12,14 @@
 			</svg>
 			{% if page.url != '/' %}
 			{% if page.layout == 'post' %}
-			<a href="{{ '/' | relative_url }}" target="_self"><img class="headerIcon" src="{{ site.dark_app_icon | relative_url }}"></a>
+			<a href="{{ '/' | relative_url }}" target="_self"><img class="headerIcon" src="{{ site.dark_app_icon | relative_url }}" alt="AppsJar home"></a>
 			{% elsif page.layout == 'product' %}
-			<a href="../" target="_self"><img class="headerIcon" src="{{ site.app_icon | relative_url }}"></a>
+			<a href="../" target="_self"><img class="headerIcon" src="{{ site.app_icon | relative_url }}" alt="AppsJar app icon"></a>
 			{% else %}
-			<a href="../" target="_self"><img class="headerIcon" src="{{ site.dark_app_icon | relative_url }}"></a>
+			<a href="../" target="_self"><img class="headerIcon" src="{{ site.dark_app_icon | relative_url }}" alt="AppsJar home"></a>
 			{% endif %}
 			{% else %}
-			<img class="headerIcon" src="{{ site.app_icon | relative_url }}">
+			<img class="headerIcon" src="{{ site.app_icon | relative_url }}" alt="AppsJar app icon">
 			{% endif %}
 			<div class="divider"></div>
 		</div>
