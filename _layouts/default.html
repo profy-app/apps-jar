@@ -17,7 +17,9 @@
                     </div>
                 </section>
                 <section class="homeHeroRight" aria-label="Sales illustration">
-                    <img class="homeHeroImage" src="{{ 'assets/sales.png' | relative_url }}" alt="Sales campaign preview">
+                    <img class="homeHeroImage" src="{{ 'assets/sales.png' | relative_url }}" alt="Sales campaign preview" loading="eager"
+  fetchpriority="high" 
+  decoding="async">
                 </section>
                 <section class="homeStatsSection" aria-label="Growth statistics">
                     <h2 class="homeStatsTitle">3+ Years Empowering Ecommerce Growth</h2>
