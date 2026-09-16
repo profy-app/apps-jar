@@ -79,7 +79,7 @@
 
             function openLightbox(image) {
                 var caption = image.closest('figure').querySelector('figcaption');
-                lightboxImage.src = image.currentSrc || image.src;
+                lightboxImage.src = image.dataset.zoomSrc || image.currentSrc || image.src;
                 lightboxImage.alt = image.alt || '';
                 lightboxCaption.textContent = caption ? caption.textContent : '';
                 lightbox.hidden = false;
