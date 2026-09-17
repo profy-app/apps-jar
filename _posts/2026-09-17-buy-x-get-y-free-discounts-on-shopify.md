@@ -19,7 +19,7 @@ Whether you’re looking for a simple native solution or an automated, high-conv
 ### Install the “Profy Buy X Get Y + Free Gift” Shopify app
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/profy-app-page.png" alt="Profy app page" loading="lazy"
+  <img src="/assets/blog/buy-x-get-y/profy-app-page.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*IoGhk4-jpKu7ZLIv315JaQ.png" alt="Profy app page" loading="lazy"
     decoding="async">
   <figcaption>Profy app page</figcaption>
 </figure>
@@ -33,7 +33,7 @@ Then, use the app’s analytics to measure offer performance, identify what work
 ### How to Create Buy X get Y Discounts Natively in Shopify (without App)
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/shopify-buy-x-get-y-setup.png" alt="Shopify Buy X Get Y discount setup" loading="lazy"
+  <img src="/assets/blog/buy-x-get-y/shopify-buy-x-get-y-setup.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z-nTK5KjhErQ3BQDMvfX1g.png" alt="Shopify Buy X Get Y discount setup" loading="lazy"
     decoding="async">
   <figcaption>Buy X Get Y discount setup in Shopify</figcaption>
 </figure>
@@ -45,7 +45,7 @@ To create a native **Buy X Get Y** promotion directly inside your Shopify dashbo
 3. In the modal popup that appears, select **Buy X Get Y** as your discount type to open the detailed setup page.
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/discount-setup-page.png" alt="Discount setup page" loading="lazy"
+  <img src="/assets/blog/buy-x-get-y/discount-setup-page.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*6XneYtkwyT-DQwBHw2t0_A.png" alt="Discount setup page" loading="lazy"
     decoding="async">
   <figcaption>Discount setup page</figcaption>
 </figure>
@@ -62,7 +62,7 @@ Choose between a **Discount Code** (entered manually by the customer) or an **Au
 ### How to Create a Buy X get Y Automatic Discount through App
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/offer-list-page.png" alt="Offer list page" loading="lazy"
+  <img src="/assets/blog/buy-x-get-y/offer-list-page.png" alt="Offer list page" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HhNG9EZo6pO1UjXEXNu2_Q.png" loading="lazy"
     decoding="async">
   <figcaption>Offer list page</figcaption>
 </figure>
@@ -77,7 +77,7 @@ To get started:
 Unlike Shopify’s native setup, the app automatically configures your offer as an **automatic Buy X get Y discount**— saving you from having to manually choose between a discount code and an automatic discount when setting up your “Buy X Get Y” or “Free Gift” promotions.
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/offer-setup-page.png" alt="Offer setup page" loading="lazy"
+  <img src="/assets/blog/buy-x-get-y/offer-setup-page.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*YELL29MRE9X8EHxJmeay-A.png" alt="Offer setup page" loading="lazy"
     decoding="async">
   <figcaption>Offer setup page</figcaption>
 </figure>
@@ -89,7 +89,7 @@ Unlike Shopify’s native setup, the app automatically configures your offer as 
 - **Subtitle:** Add a short descriptive text displayed under the main title to provide extra context or offer details to customers.
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/add-translation-option.png" alt="Add translation option" loading="lazy"
+  <img src="/assets/blog/buy-x-get-y/add-translation-option.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*rdJG05jhGf7ZIPaBUMaE6w.png" alt="Offer setup page" alt="Add translation option" loading="lazy"
     decoding="async">
   <figcaption>Add translation option</figcaption>
 </figure>
@@ -101,7 +101,7 @@ Configuring the **Customers Should Buy** and **Reward** sections is just like Sh
 **Widget Options Configuration**
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/widget-options.png" alt="Widget options" loading="lazy"
+  <img src="/assets/blog/buy-x-get-y/widget-options.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_tpMACozlqlxeCrL8zG5ew.png" alt="Widget options" loading="lazy"
     decoding="async">
   <figcaption>Widget options</figcaption>
 </figure>
@@ -134,7 +134,7 @@ The video demonstration below shows all four promotional widgets in action, high
 You can monitor and analyze the impact of your promotions directly from the **Analytics** section of the app.
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/analytics-section.png" alt="Analytics section on the app" loading="lazy"
+  <img src="/assets/blog/buy-x-get-y/analytics-section.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*455aDaHHXZVdZdxcNK-fUw.png" alt="Analytics section on the app" loading="lazy"
     decoding="async">
   <figcaption>Analytics section on the app</figcaption>
 </figure>
