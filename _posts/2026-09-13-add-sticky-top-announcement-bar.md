@@ -6,13 +6,13 @@ permalink: /blog/add-sticky-top-announcement-bar/
 excerpt: "Learn how to build a sticky announcement bar in Shopify, customize it for promotions and urgency, and drive more conversions across your store."
 ---
 
-Sticky announcement banners are one of the easiest ways to grab users’ attention. By creating an announcement bar or banner in your Shopify store, you can:
+Sticky announcement banners are one of the easiest ways to grab users’ attention. By creating an announcement bar/banner in your Shopify store, you can:
 
 1. Advertise or promote a product that is offering a discount.
 2. Promote a product collection page.
-3. Share important text announcements such as “Free shipping for orders above $20”.
+3. Share important text announcements such as “**Free shipping for orders above $20**”.
 
-Many Shopify themes include a simple announcement bar, but it is not sticky. As a result, users stop seeing it as soon as they scroll down the page. Additionally, customizing its design can be difficult and time-consuming, while code-based solutions often vary by theme.
+Many Shopify themes have a simple announcement bar, but it is not sticky. As a result, users stop seeing it as soon as they scroll down the page. Additionally, customizing its design can be difficult and time-consuming, while code-based solutions often vary depending on the store’s theme.
 
 ### Types of announcement bars and banners
 
@@ -25,7 +25,7 @@ Many Shopify themes include a simple announcement bar, but it is not sticky. As 
   <figcaption>Scrolling text / animated announcement bar</figcaption>
 </figure>
 
-Display large text in a single line with marquee and scrolling text animation.
+Display large texts in single line with marquee and scrolling text animation.
 
 <figure>
   <img src="/assets/slider_banner.gif" alt="Sliding announcement bar"
@@ -36,7 +36,7 @@ Display large text in a single line with marquee and scrolling text animation.
   <figcaption>Sliding announcement bar</figcaption>
 </figure>
 
-Combine multiple announcements in one banner where each slide changes every few seconds.
+Combine multiple announcements in single banner where each slide is changed every few seconds
 
 <figure>
   <img src="/assets/coupon_code_bar.png" alt="Coupon code bar"
@@ -47,13 +47,13 @@ Combine multiple announcements in one banner where each slide changes every few 
   <figcaption>Coupon code bar</figcaption>
 </figure>
 
-Inform and promote coupon codes through an announcement banner where customers can copy the coupon code with a single click.
+Inform and promote coupon codes through an announcement banner where customers can copy the coupon code with a button click.
 
 ### What we will build
 
-In my Shopify store, I have a newly launched product called “LED High Tops” which is being sold at a $20 discount. I want to promote this offer across other store pages to generate more sales.
+In my Shopify store, I have a newly launched product called “**LED High Tops**” which is being **sold at a $20 discount**. I want to promote this offer across other store pages to gather more sales.
 
-Hence I need to create a sticky announcement bar with the text “$20 off on LED High Tops” along with an action button that redirects to the destination URL.
+Hence I need to create a sticky announcement bar with the **text “$20 off on LED High Tops”** along with an **action button that redirects to the destination URL**.
 
 We will learn how to create a simple announcement bar and then customize it into an animated scrolling or sliding bar with multiple announcements.
 
@@ -78,7 +78,7 @@ We will learn how to create a simple announcement bar and then customize it into
   <figcaption>Profy app page</figcaption>
 </figure>
 
-There are many announcement bar apps on Shopify, but I chose **Profy Banner & Countdown Timer** because it combines announcement bars and countdown timers in one app with extensive customization options.
+There are many announcement bar apps on Shopify, but I chose [**Profy Banner & Countdown Timer**](https://apps.shopify.com/profy-promo-bar) because it combines announcement bars and countdown timers in one app with extensive customization options.
 
 Unlike other apps that require separate solutions for announcement bars and countdown timers, Profy provides everything in a single application.
 
@@ -104,16 +104,20 @@ After installing the app, enable **App Embed** to display the banners on your st
   <figcaption>Create banner button in dashboard</figcaption>
 </figure>
 
-From the dashboard, click **Create Banner** → select **Top / Bottom Bar** → choose **Announcement Banner** → select **Single Message** to create the initial announcement bar, which can later be updated to animated and sliding versions.
+From the dashboard, click **Create Banner** → select **Top / Bottom Bar** → choose **Announcement Banner** → select **Single Message** to create the initial announcement bar, which will later be updated to animated and sliding versions.
 
 <figure>
-  <img src="/assets/article1/placement_option.webp" alt="Placement options" loading="lazy"
+  <img src="/assets/article1/placement_option.webp" 
+   data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*6ZTvePEoUygRvQL5YKV9Mg.png"
+   alt="Placement options" loading="lazy"
     decoding="async">
   <figcaption>Placement options</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/article1/banner_option.webp" alt="Announcement banner option" loading="lazy"
+  <img src="/assets/article1/banner_option.webp" 
+  data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wlDcBpSwzeAssbdHAIoang.png"
+  alt="Announcement banner option" loading="lazy"
     decoding="async">
   <figcaption>Announcement banner option</figcaption>
 </figure>
