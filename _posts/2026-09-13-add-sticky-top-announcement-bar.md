@@ -133,7 +133,7 @@ From the dashboard, click **Create Banner** → select **Top / Bottom Bar** → 
 
 On the **Edit Banner** page, enter the **banner name** and update the **banner message, button text, and destination URL**.
 
-### 5) Select target pages and device
+### 5) Upgrade single message to Sliding and Animated Announcement bar
 
 <figure>
   <img src="/assets/article1/banner_setup.webp" alt="Single announcement bar" loading="lazy"

@@ -119,7 +119,7 @@ The **Advanced Configuration** section lets you schedule your offer to run conti
 The video demonstration below shows all four promotional widgets in action, highlighting how they guide shoppers through every step of the buying journey to maximize your offer’s visibility and conversion rate:
 
 <figure>
-  <iframe width="100%" height="415" src="https://www.youtube.com/embed/Gb-HeEYjCJI?start=174" title="Buy X Get Y app widgets demo" frameborder="0"
+  <iframe width="100%" height="415" src="https://www.youtube.com/embed/Gb-HeEYjCJI?start=174" title="Buy X Get Y app widgets demo" frameborder="0" loading="lazy" fetchpriority="low"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <figcaption>Video demo of app widgets</figcaption>
