@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shopify tutorial: How to add sticky top announcement bar"
+title: "Shopify tutorial: How to add sticky top Announcement Bar"
 date: 2026-09-13 09:00:00 +0000
 permalink: /blog/add-sticky-top-announcement-bar/
 excerpt: "Learn how to build a sticky announcement bar in Shopify, customize it for promotions and urgency, and drive more conversions across your store."
