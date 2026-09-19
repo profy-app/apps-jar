@@ -10,21 +10,21 @@ A moving banner or scrolling text section is a great way to **highlight importan
 
 When to Use a Moving Banner or Scrolling Text
 
-- **Display long text in a single line**
+- **Display long text in a single line:**
+  Use scrolling text when you need to display a long announcement or message that cannot fit neatly within a standard announcement banner.
 
-Use scrolling text when you need to display a long announcement or message that cannot fit neatly within a standard announcement banner.
-
-- **Grab users’ attention**
-
-Use a scrolling marquee or moving text animation to make important announcements, promotions, offers, or updates more eye-catching and engaging.
+- **Grab users’ attention:**
+  Use a scrolling marquee or moving text animation to make important announcements, promotions, offers, or updates more eye-catching and engaging.
 
 Things to Consider When Using Scrolling Text
 
 1. **Ensure smooth animation across devices**
 
-Scrolling or marquee animations can **behave differently across devices** and browsers. **Poorly optimized CSS animations may cause issues** such as text blinking, stuttering, or lag, especially on lower-powered devices. Make sure the animation is optimized for smooth and consistent performance. 2. **Maintain a consistent scrolling speed**
+   Scrolling or marquee animations can **behave differently across devices** and browsers. **Poorly optimized CSS animations may cause issues** such as text blinking, stuttering, or lag, especially on lower-powered devices. Make sure the animation is optimized for smooth and consistent performance.
 
-The scrolling **speed can change depending on the length** of the content. Longer text may appear to move slower, while shorter text may move faster. Handle different content lengths in the code to maintain a consistent and predictable animation speed.
+2. **Maintain a consistent scrolling speed**
+
+   The scrolling **speed can change depending on the length** of the content. Longer text may appear to move slower, while shorter text may move faster. Handle different content lengths in the code to maintain a consistent and predictable animation speed.
 
 In this article, we’ll learn how to:
 
@@ -44,7 +44,8 @@ In this article, we’ll learn how to:
 Adding these features manually with custom code can be tricky, as the animation needs to work smoothly across different browsers, screen sizes, and devices. An **app can simplify the setup** while helping ensure a more consistent experience for store visitors.
 
 <figure>
-  <img src="/assets/blog/moving-banner-marquee/profy-app-page.webp" alt="Profy Banner and Countdown Timer app page" loading="lazy"
+  <img src="/assets/blog/moving-banner-marquee/profy-app-page.webp"
+  data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*B-MbYmbPKdUcLSMKk6ysJw.png" alt="Profy Banner and Countdown Timer app page" loading="lazy"
     decoding="async">
   <figcaption>Profy Banner & Countdown Timer on the Shopify App Store</figcaption>
 </figure>
@@ -54,8 +55,6 @@ We will install the [**Profy Banner & Countdown Timer**](https://apps.shopify.co
 **Link**: [https://apps.shopify.com/profy-promo-bar](https://apps.shopify.com/profy-promo-bar)
 
 ### **Step 2: Click on create new banner button**
-
-Press enter or click to view image in full size
 
 <figure>
   <img src="/assets/blog/moving-banner-marquee/create-banner.webp" alt="Create new banner button" loading="lazy"
@@ -172,7 +171,9 @@ After saving, the **Scrolling Text / Marquee Section** needs to be manually adde
 First, click **“Add Banner to store”**. A popup will appear with a **Widget ID**. Copy this Widget ID, then click **“Go to theme”** to open the Shopify theme editor.
 
 <figure>
-  <img src="/assets/blog/moving-banner-marquee/add-banner-popup.webp" alt="Add banner to store popup with widget ID" loading="lazy"
+  <img src="/assets/blog/moving-banner-marquee/add-banner-popup.webp" 
+   data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*EfVMSsXgzspFcSLYtJantg.png" alt="Profy Banner and Countdown Timer app page"
+  alt="Add banner to store popup with widget ID" loading="lazy"
     decoding="async">
   <figcaption>Add banner to store popup</figcaption>
 </figure>
