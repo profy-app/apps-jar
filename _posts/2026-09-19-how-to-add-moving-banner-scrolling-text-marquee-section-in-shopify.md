@@ -2,7 +2,7 @@
 layout: post
 title: "How to Add a Moving Banner and Scrolling Text Marquee Section in Shopify"
 date: 2026-09-19 08:00:00 +0000
-permalink: /blog/moving-banner-scrolling-text-marquee-section-in-shopify/
+permalink: /blog/moving-banner-scrolling-text-marquee-section-shopify/
 excerpt: "Learn how to create a sticky moving banner and an embedded scrolling text marquee section in Shopify using a no-code app workflow."
 ---
 
