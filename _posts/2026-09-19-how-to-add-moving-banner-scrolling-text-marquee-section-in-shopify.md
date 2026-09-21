@@ -57,9 +57,11 @@ We will install the [**Profy Banner & Countdown Timer**](https://apps.shopify.co
 ### **Step 2: Click on create new banner button**
 
 <figure>
-  <img src="/assets/blog/moving-banner-marquee/create-banner.webp" alt="Create new banner button" loading="lazy"
+  <img src="/assets/article1/create_banner.webp"
+  data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pzD-7yjmQ-7Lm85HryDVkQ.png"
+   alt="Create banner button in dashboard" loading="lazy"
     decoding="async">
-  <figcaption>Create New Banner button</figcaption>
+  <figcaption>Create banner button in dashboard</figcaption>
 </figure>
 
 Go to the app’s home page and click **Create New Banner**.
@@ -131,9 +133,10 @@ If you have selected the **Scrolling Text / Marquee** section, additional settin
 ### Step 7: Customize the Banner Design in the Style Settings Tab
 
 <figure>
-  <img src="/assets/blog/moving-banner-marquee/style-settings.webp" alt="Style settings tab" loading="lazy"
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*-PbfsX3P8zpWgxGmM0AJNQ.png"
+  data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-PbfsX3P8zpWgxGmM0AJNQ.png" alt="Style settings" loading="lazy"
     decoding="async">
-  <figcaption>Style settings tab</figcaption>
+  <figcaption>Style settings</figcaption>
 </figure>
 
 The **Style Settings** tab allows you to fully customize the appearance of your scrolling text banner so it blends seamlessly with your store’s branding.
@@ -147,9 +150,10 @@ Key customization options include:
 ### Step 6: Add the Moving Banner to the Top of Your Store
 
 <figure>
-  <img src="/assets/blog/moving-banner-marquee/visibility-settings.webp" alt="Visibility settings tab" loading="lazy"
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*mFmLS1Uo7XP7AkfxNquFKQ.png" alt="Visibility settings" loading="lazy"
+    data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mFmLS1Uo7XP7AkfxNquFKQ.png"
     decoding="async">
-  <figcaption>Visibility settings tab</figcaption>
+  <figcaption>Visibility settings</figcaption>
 </figure>
 
 The **Moving Banner** will automatically appear at the **top or bottom of the page**, based on the position selected under **Banner Position** in the **Visibility Settings**.
