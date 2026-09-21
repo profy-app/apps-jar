@@ -61,7 +61,7 @@ Go to the app’s home page and click **Create New Banner**.
 To create a rotating banner, first select **“Top / Bottom Bar”** as the placement. In the second step, choose **“Announcement Banner”** as the banner type.
 
 <figure>
-  <img src="/assets/blog/multiple-rotating-announcement-bar/image-5.png" alt="option selection" loading="lazy"
+  <img src="/assets/blog/multiple-rotating-announcement-bar/image-5.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*oU0w9ZBYzUYRFSkSR79PpQ.png" alt="option selection" loading="lazy"
     decoding="async">
 </figure>
 
@@ -74,7 +74,7 @@ In the **Banner Details** tab, add the content that will be displayed on the fir
 Set the button type to **Coupon Code** and enter the correct coupon code so that the discount is automatically applied to the cart when customers click the button.
 
 <figure>
-  <img src="/assets/blog/multiple-rotating-announcement-bar/image-6.png" alt="Basic details section" loading="lazy"
+  <img src="/assets/blog/multiple-rotating-announcement-bar/image-6.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*KMpsG_O2cUpp_4g71t34Fw.png"  alt="Basic details section" loading="lazy"
     decoding="async">
     <figcaption>Basic details section</figcaption>
 </figure>
@@ -88,7 +88,7 @@ Use the **“Slide Duration”** option to control how many seconds each slide r
 In the **“Slide #2”** section, enter **“Free Shipping Over $50”** as the announcement message. Since this announcement does not require a button, set the **Button Type** to **None** and leave the **Destination URL** field empty.
 
 <figure>
-  <img src="/assets/blog/multiple-rotating-announcement-bar/image-7.png" alt="Banner setup section" loading="lazy"
+  <img src="/assets/blog/multiple-rotating-announcement-bar/image-7.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iOsS9RB2dqquD2RMXQJEaw.png"  alt="Banner setup section" loading="lazy"
     decoding="async">
   <figcaption>Banner setup section</figcaption>
 </figure>
@@ -100,7 +100,7 @@ Click **“Add New Slide”** to add the third announcement to the banner. Enter
 Finally, enter the URL of the collection associated with the discount in the **Destination URL** field so customers can view the eligible products.
 
 <figure>
-  <img src="/assets/blog/multiple-rotating-announcement-bar/image-8.png" alt="Third Slide section" loading="lazy"
+  <img src="/assets/blog/multiple-rotating-announcement-bar/image-8.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*owW5W3efHVtKzSGIJObYSw.png" alt="Third Slide section" loading="lazy"
     decoding="async">
   <figcaption>Third Slide section</figcaption>
 </figure>
