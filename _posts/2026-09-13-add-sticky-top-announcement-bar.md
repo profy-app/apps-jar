@@ -12,7 +12,26 @@ Sticky announcement banners are one of the easiest ways to grab users’ attenti
 2. Promote a product collection page.
 3. Share important text announcements such as “**Free shipping for orders above $20**”.
 
-Many Shopify themes have a simple announcement bar, but it is not sticky. As a result, users stop seeing it as soon as they scroll down the page. Additionally, customizing its design can be difficult and time-consuming, while code-based solutions often vary depending on the store’s theme.
+### Common Uses of an Announcement Bar
+
+1. **Promote Free Shipping** :Highlight your free shipping offer to encourage customers to complete their purchase, such as: **"Free shipping on orders above $20."**
+2. **Share Delivery Information**: Set clear delivery expectations by displaying estimated delivery times for specific locations, such as: **"Order now and get delivery in approximately 2–3 days across the US."**
+3. **Promote Discounts & Sales**: Announce discounts and direct customers to the relevant products or collections with an action button, such as: **"10% off all T-shirts" → View Collection"**
+4. **Promote Coupon Codes:** Display promotional coupon codes directly in the announcement bar to encourage customers to use them at checkout, such as: **"Get 10% off your order with code WELCOME10."** . A dedicated coupon-code banner can make this type of promotion even more effective.
+5. **Create Urgency with a Sales Countdown:** Add a countdown timer to promote flash sales and create urgency by showing customers exactly how much time remains before the offer ends.
+6. **Announce New Product Launches:** Use the announcement bar to showcase newly launched products or collections and direct customers to them with an action button, such as: **"New arrivals are here!" → Shop New Products**
+
+### How to Create an Announcement Bar Through Your Shopify Theme
+
+Shopify provides a built-in **Announcement Bar** feature in many themes. You can follow [Shopify's official guide](https://help.shopify.com/en/manual/online-store/themes/customizing-themes/common-customizations/add-announcement-banner) to add an announcement bar through the theme editor.
+
+Many Shopify themes offer a simple announcement bar, but it is often **not sticky**. This means customers may stop seeing the announcement as soon as they scroll down the page. Customizing its design and behavior can also be difficult and time-consuming, while code-based solutions may vary depending on the store's theme.
+
+Depending on the theme, you may have options for basic text, links, colors, and multiple rotating announcements. However, more advanced features such as **scrolling/marquee announcements, countdown timers, coupon-code promotions, scheduling, customer or page targeting, animations, and greater design flexibility** may not be available.
+
+For these advanced requirements, a dedicated Shopify announcement bar app can provide more customization without requiring theme-specific code changes.
+
+In this article, we'll use **Profy Banner & Countdown Timer** to create and customize different types of announcement bars for a Shopify store.
 
 ### Types of announcement bars and banners
 
@@ -25,7 +44,9 @@ Many Shopify themes have a simple announcement bar, but it is not sticky. As a r
   <figcaption>Scrolling text / animated announcement bar</figcaption>
 </figure>
 
-Display large texts in single line with marquee and scrolling text animation.
+Display large, attention-grabbing messages in a single line using a **scrolling text or marquee animation**. This is useful for showcasing promotions, special offers, free shipping messages, product announcements, and other important store updates without taking up additional vertical space.
+
+For a detailed step-by-step guide, see our dedicated guide on [creating a moving banner and scrolling text marquee section for Shopify.](https://appsjar.net/blog/moving-banner-scrolling-text-marquee-section-shopify/)
 
 <figure>
   <img src="/assets/slider_banner.gif" alt="Sliding announcement bar"
@@ -36,7 +57,9 @@ Display large texts in single line with marquee and scrolling text animation.
   <figcaption>Sliding announcement bar</figcaption>
 </figure>
 
-Combine multiple announcements in single banner where each slide is changed every few seconds
+Combine multiple announcements into a **single rotating banner**, with each message automatically changing after a few seconds. This allows you to display multiple promotions, offers, shipping information, or store updates without taking up additional space on your storefront.
+
+For a detailed step-by-step guide, read our dedicated guide on [creating a multiple rotating announcement bar for Shopify](https://appsjar.net/blog/multiple-rotating-announcement-bar-shopify/).
 
 <figure>
   <img src="/assets/coupon_code_bar.png" alt="Coupon code bar"
