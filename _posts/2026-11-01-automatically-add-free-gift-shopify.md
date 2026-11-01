@@ -31,11 +31,11 @@ As a result, **customers may not even know the offer exists** or understand how 
 
 ### Installing a Shopify App for Free Gifts
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*IoGhk4-jpKu7ZLIv315JaQ.png)
-
-Profy Buy X Get Y App
+<figure>
+  <img src="/assets/blog/buy-x-get-y/profy-app-page.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*IoGhk4-jpKu7ZLIv315JaQ.png" alt="Profy app page" loading="lazy"
+    decoding="async">
+  <figcaption>Profy app page</figcaption>
+</figure>
 
 To overcome the limitations of Shopify’s default discount functionality, we’ll use the [**Buy X Get Y + Auto Add Free Gift**](https://apps.shopify.com/profy-bogo-free-gift-upsell) Shopify app.
 
@@ -51,21 +51,21 @@ This ensures customers don’t miss out on available promotions. By making **fre
 
 Navigate to the **Offers** page and click **Create Offer** to start setting up a new Buy X Get Y discount.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*HhNG9EZo6pO1UjXEXNu2_Q.png)
-
-Create offer button
+<figure>
+  <img src="/assets/blog/free-gift/create-offer-button.png" data-zoom-src="/assets/blog/free-gift/create-offer-button.png" alt="Create offer button" loading="lazy"
+    decoding="async">
+  <figcaption>Create offer button</figcaption>
+</figure>
 
 Start by entering the **discount name** and **display text**, which will be shown to customers through the promotional widgets. You can also customize the subtitle and reward text to clearly communicate the offer and encourage customers to claim their free gift.
 
 If your store supports multiple languages, use the **Add Translation** option to provide translated text for each language, ensuring customers can view the offer in their preferred language.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*wJFTjkhZ4ivkCnwFfYK4Qw.png)
-
-Free gift offer setup
+<figure>
+  <img src="/assets/blog/free-gift/free-gift-offer-setup.png" data-zoom-src="/assets/blog/free-gift/free-gift-offer-setup.png" alt="Free gift offer setup" loading="lazy"
+    decoding="async">
+  <figcaption>Free gift offer setup</figcaption>
+</figure>
 
 ### Automatically Adding Free Gifts to the Cart
 
@@ -76,29 +76,29 @@ Enable the **Auto Add to Cart** feature to automatically add the free gift to th
 
 Choose the option that best suits your offer. If there is only one gift, automatic addition provides a seamless experience. If there are multiple gifts, the popup makes it easy for customers to select their preferred reward.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*vAneHS3X6m6ni1Whbls7ww.png)
-
-Enabling auto add to cart option
+<figure>
+  <img src="/assets/blog/free-gift/enable-auto-add-to-cart.png" data-zoom-src="/assets/blog/free-gift/enable-auto-add-to-cart.png" alt="Enabling auto add to cart option" loading="lazy"
+    decoding="async">
+  <figcaption>Enabling auto add to cart option</figcaption>
+</figure>
 
 ### Informing Customers About the Free Gift Offer Before Checkout
 
 It’s important to make customers aware of free gift offers early in their shopping journey to improve engagement and conversions. To achieve this, the app provides a **Today’s Offer widget**, which displays available Buy X Get Y promotions along with their respective free gifts. Each offer also includes a **Claim Offer** button, allowing customers to easily explore and take advantage of the promotion.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*VfpPWkamLFS69pe8mXCj8w.png)
-
-Today’s offer widget
+<figure>
+  <img src="/assets/blog/free-gift/todays-offer-widget.png" data-zoom-src="/assets/blog/free-gift/todays-offer-widget.png" alt="Today's offer widget" loading="lazy"
+    decoding="async">
+  <figcaption>Today’s offer widget</figcaption>
+</figure>
 
 The **Offer Announcement widget** displays Buy X Get Y offer details directly on applicable product pages. It highlights the purchase requirements and showcases the available free gift options, helping customers understand the offer and encouraging them to add eligible products to their cart to claim their reward.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*yu4H2iHlvJVy0l_ZigHh0A.png)
-
-Offer announcement widget
+<figure>
+  <img src="/assets/blog/free-gift/offer-announcement-widget.png" data-zoom-src="/assets/blog/free-gift/offer-announcement-widget.png" alt="Offer announcement widget" loading="lazy"
+    decoding="async">
+  <figcaption>Offer announcement widget</figcaption>
+</figure>
 
 ### Prompting Customers to Add the Free Gift to Their Cart
 
@@ -106,29 +106,29 @@ Once the Buy X conditions are met, the **Upsell Popup** is displayed (if enabled
 
 Alternatively, if **Auto Add to Cart** is enabled, the free gift is automatically added to the customer’s cart as soon as the purchase conditions are satisfied, without requiring any additional action.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*WpLplzk9Tdo-HKU9hoJO9w.png)
-
-Upsell popup
+<figure>
+  <img src="/assets/blog/free-gift/upsell-popup.png" data-zoom-src="/assets/blog/free-gift/upsell-popup.png" alt="Upsell popup" loading="lazy"
+    decoding="async">
+  <figcaption>Upsell popup</figcaption>
+</figure>
 
 Customers can also claim their free gift directly from the **Offer Announcement widget** by clicking the **Add** button next to their preferred gift. This will automatically add the selected free gift to their cart.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*LCNNJG82nI3ceLg-DX5cRg.png)
-
-Announcement widget with rewards unlocked
+<figure>
+  <img src="/assets/blog/free-gift/announcement-widget-rewards-unlocked.png" data-zoom-src="/assets/blog/free-gift/announcement-widget-rewards-unlocked.png" alt="Announcement widget with rewards unlocked" loading="lazy"
+    decoding="async">
+  <figcaption>Announcement widget with rewards unlocked</figcaption>
+</figure>
 
 ### Notifying Customers When the Offer Is Applied Successfully
 
 Once the free gift is successfully added to the cart and the discount is applied, a **success notification** is displayed to confirm that the offer has been activated. This instantly informs customers that their free gift has been claimed without requiring them to visit the cart page to verify it.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*2oUE1bjvslE7_ggm7uo2Bg.png)
-
-Offer success notification
+<figure>
+  <img src="/assets/blog/free-gift/offer-success-notification.png" data-zoom-src="/assets/blog/free-gift/offer-success-notification.png" alt="Offer success notification" loading="lazy"
+    decoding="async">
+  <figcaption>Offer success notification</figcaption>
+</figure>
 
 ### Final Result and Demo
 

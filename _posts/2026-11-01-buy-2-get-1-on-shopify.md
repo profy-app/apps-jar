@@ -30,9 +30,11 @@ However the options are very limited like:
 
 ### Installing a Shopify App for “Buy 2, Get 1 Free” Offers
 
-![](https://miro.medium.com/v2/resize:fit:700/1*IoGhk4-jpKu7ZLIv315JaQ.png)
-
-Profy Buy X Get Y App
+<figure>
+  <img src="/assets/blog/buy-x-get-y/profy-app-page.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*IoGhk4-jpKu7ZLIv315JaQ.png" alt="Profy app page" loading="lazy"
+    decoding="async">
+  <figcaption>Profy app page</figcaption>
+</figure>
 
 To overcome these limitations and make your **Buy 2 Get 1 Free** promotion easier for customers to discover and redeem, we’ll use the [**Buy X Get Y + Auto Add Free Gift**](https://apps.shopify.com/profy-bogo-free-gift-upsell) Shopify app.
 
@@ -51,57 +53,57 @@ The app provides **four promotional widgets** that work together throughout the 
 
 Navigate to the **Offers** page and click the **Create Offer** button to start creating a new Buy 2 Get 1 Free discount.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*HhNG9EZo6pO1UjXEXNu2_Q.png)
-
-Create offer button
+<figure>
+  <img src="/assets/blog/buy-2-get-1/create-offer-button.png" data-zoom-src="/assets/blog/buy-2-get-1/create-offer-button.png" alt="Create offer button" loading="lazy"
+    decoding="async">
+  <figcaption>Create offer button</figcaption>
+</figure>
 
 Under **Basic Details**, enter the information for your Buy 2 Get 1 Free offer. Provide an offer name for internal reference and display text that will appear in the promotional widgets shown to customers.
 
 Use the **Subtitle** to explain the Buy 2 purchase requirement. Once customers satisfy this condition, the **Reward Text** is displayed to encourage them to select and add their free gift to the cart.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*CZADxu4xFIxy-ROG3gnDMA.png)
-
-Offer setup section
+<figure>
+  <img src="/assets/blog/buy-2-get-1/offer-setup-section.png" data-zoom-src="/assets/blog/buy-2-get-1/offer-setup-section.png" alt="Offer setup section" loading="lazy"
+    decoding="async">
+  <figcaption>Offer setup section</figcaption>
+</figure>
 
 ### Enabling the Auto-Add to Cart Feature
 
 You can choose between two ways to deliver the free gift. Enable the **Upsell Popup** to let customers choose their preferred free gift from the available options, or enable **Auto Add to Cart** to automatically add the free gift once the Buy 2 purchase condition is satisfied.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*vAneHS3X6m6ni1Whbls7ww.png)
-
-Enabling auto add to cart option
+<figure>
+  <img src="/assets/blog/buy-2-get-1/enable-auto-add-to-cart.png" data-zoom-src="/assets/blog/buy-2-get-1/enable-auto-add-to-cart.png" alt="Enabling auto add to cart option" loading="lazy"
+    decoding="async">
+  <figcaption>Enabling auto add to cart option</figcaption>
+</figure>
 
 ### Highlighting “Buy 2, Get 1 Free” Offers Before Cart Addition
 
 The **Today’s Offer widget** informs customers about the available Buy 2 Get 1 Free promotion and provides a direct link to the collection containing eligible products, making it easy for customers to explore the offer and start shopping.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*yQrjGdsFv-cvNdmFOnHIZg.png)
-
-Today’s offer widget
+<figure>
+  <img src="/assets/blog/buy-2-get-1/todays-offer-widget.png" data-zoom-src="/assets/blog/buy-2-get-1/todays-offer-widget.png" alt="Today's offer widget" loading="lazy"
+    decoding="async">
+  <figcaption>Today’s offer widget</figcaption>
+</figure>
 
 When a customer visits a product page where the Buy 2 Get 1 Free offer is applicable, the **Offer Announcement widget** displays the promotion details, including the purchase requirements, a **progress bar showing how close the customer is to qualifying** for the offer, and a list of available reward products with their discounted prices. This helps customers understand **how to unlock the free gift** and encourages them to **add more eligible products** to their cart.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*XLh6Zj_u0mmHTWveH2ai_Q.png)
-
-Product page announcement widget
+<figure>
+  <img src="/assets/blog/buy-2-get-1/product-page-announcement-widget.png" data-zoom-src="/assets/blog/buy-2-get-1/product-page-announcement-widget.png" alt="Product page announcement widget" loading="lazy"
+    decoding="async">
+  <figcaption>Product page announcement widget</figcaption>
+</figure>
 
 The progress bar **updates dynamically as customers add eligible products** to their cart, displaying the current progress towards meeting the Buy 2 requirement. This helps customers **track how close they are to unlocking their free gift** and encourages them to add the remaining items to qualify for the offer.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*v08uXKjlW6ih_jdLwrWhMQ.png)
-
-Announcement widget with 1 item added
+<figure>
+  <img src="/assets/blog/buy-2-get-1/announcement-widget-1-item-added.png" data-zoom-src="/assets/blog/buy-2-get-1/announcement-widget-1-item-added.png" alt="Announcement widget with 1 item added" loading="lazy"
+    decoding="async">
+  <figcaption>Announcement widget with 1 item added</figcaption>
+</figure>
 
 ### Prompting Customers to Select the Free Gift
 
@@ -109,27 +111,29 @@ Once the Buy 2 purchase condition is satisfied, the **Upsell Popup** is displaye
 
 Alternatively, if **Auto Add to Cart** is enabled, the free gift is automatically added to the cart without displaying the popup or requiring customers to select it manually.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*JYBsS8nsPf4p2frqJMZpJg.png)
-
-Upsell popup
+<figure>
+  <img src="/assets/blog/buy-2-get-1/upsell-popup.png" data-zoom-src="/assets/blog/buy-2-get-1/upsell-popup.png" alt="Upsell popup" loading="lazy"
+    decoding="async">
+  <figcaption>Upsell popup</figcaption>
+</figure>
 
 Once the Buy 2 condition is satisfied, the **Offer Announcement widget** also updates to display the reward text, encouraging customers to select and add their free gift to the cart. This works alongside the Upsell Popup, providing customers with an **additional way to claim their reward**.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*4QKdUDApEbtwLNO_Wbm7zg.png)
-
-Announcement widget with rewards unlocked
+<figure>
+  <img src="/assets/blog/buy-2-get-1/announcement-widget-rewards-unlocked.png" data-zoom-src="/assets/blog/buy-2-get-1/announcement-widget-rewards-unlocked.png" alt="Announcement widget with rewards unlocked" loading="lazy"
+    decoding="async">
+  <figcaption>Announcement widget with rewards unlocked</figcaption>
+</figure>
 
 ### Notifying Customers When the “Buy 2, Get 1 Free” Offer Is Applied Successfully
 
 Once the free gift is added and the Buy 2 Get 1 Free discount is successfully applied, a **success notification** is displayed to **confirm that the offer has been applied**. This keeps customers informed without requiring them to visit the cart page to verify whether the discount has been applied.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*pjicMw_x3PMbVFGOZfPVww.png)
+<figure>
+  <img src="/assets/blog/buy-2-get-1/offer-success-notification.png" data-zoom-src="/assets/blog/buy-2-get-1/offer-success-notification.png" alt="Offer success notification" loading="lazy"
+    decoding="async">
+  <figcaption>Offer success notification</figcaption>
+</figure>
 
 ### Final Result and Demo
 

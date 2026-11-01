@@ -29,11 +29,11 @@ These limitations make it **harder for customers to discover and redeem** your B
 
 ### Installing a Shopify App for “Buy 1, Get 1 Free” Offers
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*IoGhk4-jpKu7ZLIv315JaQ.png)
-
-Profy Buy X Get Y App
+<figure>
+  <img src="/assets/blog/buy-x-get-y/profy-app-page.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*IoGhk4-jpKu7ZLIv315JaQ.png" alt="Profy app page" loading="lazy"
+    decoding="async">
+  <figcaption>Profy app page</figcaption>
+</figure>
 
 To overcome the limitations of Shopify’s default discount functionality, we’ll install the [**Buy X Get Y + Auto Add Free Gift**](https://apps.shopify.com/profy-bogo-free-gift-upsell) Shopify app.
 
@@ -49,21 +49,21 @@ This makes it easier for customers to **discover the promotion, understand how t
 
 Navigate to the **Offers** page and click the **Create Offer** button to start setting up a new Buy 1 Get 1 Free discount.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*HhNG9EZo6pO1UjXEXNu2_Q.png)
-
-Create offer button
+<figure>
+  <img src="/assets/blog/buy-1-get-1/create-offer-button.png" data-zoom-src="/assets/blog/buy-1-get-1/create-offer-button.png" alt="Create offer button" loading="lazy"
+    decoding="async">
+  <figcaption>Create offer button</figcaption>
+</figure>
 
 Under the **Offer Setup** section, enter a unique offer name for internal reference and add the **Display Text**, which will be shown to customers in the promotional widgets.
 
 Use the **Subtitle** to explain the Buy 1 purchase requirement. Once customers satisfy this condition, the **Reward Text** is displayed to prompt them to select and add their free gift to the cart.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*wJFTjkhZ4ivkCnwFfYK4Qw.png)
-
-Offer setup section
+<figure>
+  <img src="/assets/blog/buy-1-get-1/offer-setup-section.png" data-zoom-src="/assets/blog/buy-1-get-1/offer-setup-section.png" alt="Offer setup section" loading="lazy"
+    decoding="async">
+  <figcaption>Offer setup section</figcaption>
+</figure>
 
 ### Enabling the Auto Add to Cart Option
 
@@ -71,11 +71,11 @@ By default, the **Upsell Popup** is displayed to let customers choose their pref
 
 Alternatively, you can enable the **Auto Add to Cart** feature to automatically add the free gift to the cart without displaying the popup or requiring customers to select it manually.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*vAneHS3X6m6ni1Whbls7ww.png)
-
-Enabling auto add to cart option
+<figure>
+  <img src="/assets/blog/buy-1-get-1/enable-auto-add-to-cart.png" data-zoom-src="/assets/blog/buy-1-get-1/enable-auto-add-to-cart.png" alt="Enabling auto add to cart option" loading="lazy"
+    decoding="async">
+  <figcaption>Enabling auto add to cart option</figcaption>
+</figure>
 
 ### Informing Customers About the “Buy 1, Get 1 Free” Offer Before They Buy
 
@@ -83,19 +83,19 @@ It’s important to promote your Buy 1 Get 1 Free offer **early in the customer�
 
 Highlighting the offer while customers are browsing can grab their attention, encourage them to explore the promotion, and **motivate them to make a purchase they might not otherwise have considered**.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*VfpPWkamLFS69pe8mXCj8w.png)
-
-Today’s offer widget
+<figure>
+  <img src="/assets/blog/buy-1-get-1/todays-offer-widget.png" data-zoom-src="/assets/blog/buy-1-get-1/todays-offer-widget.png" alt="Today's offer widget" loading="lazy"
+    decoding="async">
+  <figcaption>Today’s offer widget</figcaption>
+</figure>
 
 The product announcement widget provides customers with details of the Buy 1 Get 1 Free offer, along with a **list of available free gift options**. It also displays the **original and discounted prices**, helping customers understand the value of the promotion before making a purchase.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*yu4H2iHlvJVy0l_ZigHh0A.png)
-
-Offer announcement widget
+<figure>
+  <img src="/assets/blog/buy-1-get-1/offer-announcement-widget.png" data-zoom-src="/assets/blog/buy-1-get-1/offer-announcement-widget.png" alt="Offer announcement widget" loading="lazy"
+    decoding="async">
+  <figcaption>Offer announcement widget</figcaption>
+</figure>
 
 ### Prompting Customers to Select the Free Gift
 
@@ -103,29 +103,29 @@ Once the Buy 1 condition is satisfied, the **Upsell Popup** is displayed, prompt
 
 Alternatively, if **Auto Add to Cart** is enabled, the free gift is automatically added to the cart without displaying the popup or requiring customers to select it manually.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*WpLplzk9Tdo-HKU9hoJO9w.png)
-
-Upsell popup
+<figure>
+  <img src="/assets/blog/buy-1-get-1/upsell-popup.png" data-zoom-src="/assets/blog/buy-1-get-1/upsell-popup.png" alt="Upsell popup" loading="lazy"
+    decoding="async">
+  <figcaption>Upsell popup</figcaption>
+</figure>
 
 The product announcement widget also allows customers to select their free gift once the **Buy 1 condition is satisfied**. This gives customers the flexibility to claim their free gift either through the Upsell Popup or directly from the product announcement widget.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*LCNNJG82nI3ceLg-DX5cRg.png)
-
-Announcement widget with rewards unlocked
+<figure>
+  <img src="/assets/blog/buy-1-get-1/announcement-widget-rewards-unlocked.png" data-zoom-src="/assets/blog/buy-1-get-1/announcement-widget-rewards-unlocked.png" alt="Announcement widget with rewards unlocked" loading="lazy"
+    decoding="async">
+  <figcaption>Announcement widget with rewards unlocked</figcaption>
+</figure>
 
 ### Notifying Customers When the “Buy 1, Get 1 Free” Offer Is Applied Successfully
 
 Once the free gift is added to the cart and the Buy 1 Get 1 Free discount is successfully applied, a **success notification is displayed** to confirm that the offer has been applied to order.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*2oUE1bjvslE7_ggm7uo2Bg.png)
-
-Offer success notification
+<figure>
+  <img src="/assets/blog/buy-1-get-1/offer-success-notification.png" data-zoom-src="/assets/blog/buy-1-get-1/offer-success-notification.png" alt="Offer success notification" loading="lazy"
+    decoding="async">
+  <figcaption>Offer success notification</figcaption>
+</figure>
 
 ### Final Result and Demo
 
