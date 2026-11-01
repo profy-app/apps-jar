@@ -10,7 +10,7 @@ A **Buy 2 Get 1 Free** offer is a great way to encourage bulk purchases by rewar
 
 The free gift can be either the same product (e.g., Buy 2 Skateboards Get 1 Skateboard Free) or a different product of your choice.
 
-You can also explore our related articles to learn how to create \[Buy 1 Get 1 Free offers\] or \[automatically add free gifts to Shopify orders\].
+You can also explore our related articles to learn how to create [Buy 1 Get 1 Free offers](https://appsjar.net/blog/buy-one-get-one-free-shopify/) or [automatically add free gifts to Shopify orders](https://appsjar.net/blog/automatically-add-free-gift-purchase-shopify/).
 
 In this article, we’ll walk through how to create a **Buy 2 Skateboards Get 1 Skateboard Free** offer, promote it to customers, and track its performance.
 
@@ -31,7 +31,7 @@ However the options are very limited like:
 ### Installing a Shopify App for “Buy 2, Get 1 Free” Offers
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/profy-app-page.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*IoGhk4-jpKu7ZLIv315JaQ.png" alt="Profy app page" loading="lazy"
+  <img src="/assets/blog/buy-x-get-y/profy-app-page.webp" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*a1qYb5yi-s4lKXF_kwjQRw.png" alt="Profy app page" loading="lazy"
     decoding="async">
   <figcaption>Profy app page</figcaption>
 </figure>

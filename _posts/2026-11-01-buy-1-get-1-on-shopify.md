@@ -30,7 +30,7 @@ These limitations make it **harder for customers to discover and redeem** your B
 ### Installing a Shopify App for “Buy 1, Get 1 Free” Offers
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/profy-app-page.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*IoGhk4-jpKu7ZLIv315JaQ.png" alt="Profy app page" loading="lazy"
+  <img src="/assets/blog/buy-x-get-y/profy-app-page.webp" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*a1qYb5yi-s4lKXF_kwjQRw.png" alt="Profy app page" loading="lazy"
     decoding="async">
   <figcaption>Profy app page</figcaption>
 </figure>

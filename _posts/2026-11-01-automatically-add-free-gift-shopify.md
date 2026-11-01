@@ -2,13 +2,13 @@
 layout: post
 title: "How to automatically add Free Gift with Purchase on Shopify"
 date: 2026-11-01 01:00:00 +0000
-permalink: /blog/automatically-add-Free-Gift-Purchase-shopify/
+permalink: /blog/automatically-add-free-gift-purchase-shopify/
 excerpt: "Learn how to create and promote a Buy 2 Get 1 Free offer in your Shopify store. This guide walks you through setting up a Buy 2 Skateboards Get 1 Skateboard Free discount, promoting it with customer-facing widgets, and making it easier for customers to discover eligible products and claim their free gifts."
 ---
 
 In Shopify, free gifts are offered through **Buy X Get Y Free discounts**, where customers receive a free product (Get Y) as a reward for meeting a purchase condition (Buy X). For example, customers get a free gift when they purchase a specific product or meet a minimum quantity requirement.
 
-There are different types of free gift offers, such as **Buy 1 Get 1 Free** and **Buy 2 Get 1 Free**. You can read our dedicated articles to learn how to create and promote each type of offer.
+There are different types of free gift offers, such as [**Buy 1 Get 1 Free**](https://appsjar.net/blog/buy-one-get-one-free-shopify/) and [**Buy 2 Get 1 Free**](https://appsjar.net/blog/buy-2-get-1-free-shopify/). You can read our dedicated articles to learn how to create and promote each type of offer.
 
 In this article, you’ll learn how to set up a “ **Buy X, Get Y Free**” discount, effectively promote the offer, and seamlessly guide customers to claim their free gift once the conditions are met.
 
@@ -32,7 +32,7 @@ As a result, **customers may not even know the offer exists** or understand how 
 ### Installing a Shopify App for Free Gifts
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/profy-app-page.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*IoGhk4-jpKu7ZLIv315JaQ.png" alt="Profy app page" loading="lazy"
+  <img src="/assets/blog/buy-x-get-y/profy-app-page.webp" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*a1qYb5yi-s4lKXF_kwjQRw.png" alt="Profy app page" loading="lazy"
     decoding="async">
   <figcaption>Profy app page</figcaption>
 </figure>
