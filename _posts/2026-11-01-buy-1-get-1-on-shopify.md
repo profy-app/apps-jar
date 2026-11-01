@@ -10,7 +10,7 @@ excerpt: "Learn how to setup and create buy 1 get 1 free on shopify and promote 
 
 Unlike quantity-based offers such as Buy 2 Get 1 Free, this promotion is **easier for customers to understand and redeem**, as they only need to purchase one qualifying item to unlock their free gift.
 
-You can also explore our related articles to learn how to create \[Buy 2 Get 2 Free offers\] or \[automatically add free gifts to Shopify orders\].
+You can also explore our related articles to learn how to create [Buy 2 Get 2 Free offers](https://appsjar.net/blog/buy-2-get-1-free-shopify/) or [Automatically add free gifts with purchase](https://appsjar.net/blog/automatically-add-free-gift-purchase-shopify/).
 
 In this article, we’ll walk through how to create a **Buy a Skateboard Get a Helmet Free** discount and use promotional widgets to inform customers about the offer and help them easily claim their free gift.
 
