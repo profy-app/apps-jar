@@ -16,7 +16,7 @@ In this guide, you will learn:
 
 Whether you’re looking for a simple native solution or an automated, high-converting app setup, this walkthrough covers everything you need to build, launch, and optimize your BOGO strategy.
 
-### Install the “Profy Buy X Get Y + Free Gift” Shopify app
+### Install the “Buy X Get Y+Auto add Free Gift” Shopify app
 
 <figure>
   <img src="/assets/blog/buy-x-get-y/profy-app-page.webp" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*a1qYb5yi-s4lKXF_kwjQRw.png" alt="Profy app page" loading="lazy"
@@ -24,7 +24,7 @@ Whether you’re looking for a simple native solution or an automated, high-conv
   <figcaption>Profy app page</figcaption>
 </figure>
 
-Shopify doesn’t natively provide Buy X Get Y discount promotion widgets. We will install [**Profy Buy X Get Y + Free Gift**](https://apps.shopify.com/profy-bogo-free-gift-upsell) Shopify app to create and promote these offers with product page announcements, upsell popups, Today’s Offer widgets, and success notifications.
+Shopify doesn’t natively provide Buy X Get Y discount promotion widgets. We will install [**Buy X Get Y+Auto add Free Gift**](https://apps.shopify.com/profy-bogo-free-gift-upsell) Shopify app to create and promote these offers with product page announcements, upsell popups, Today’s Offer widgets, and success notifications.
 
 Then, use the app’s analytics to measure offer performance, identify what works best, and optimize your promotions for higher conversions and sales.
 
@@ -101,14 +101,16 @@ Configuring the **Customers Should Buy** and **Reward** sections is just like Sh
 **Widget Options Configuration**
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/widget-options.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_tpMACozlqlxeCrL8zG5ew.png" alt="Widget options" loading="lazy"
+<img src="/assets/blog/buy-1-get-1/enable-auto-add-to-cart.png" data-zoom-src="/assets/blog/buy-1-get-1/enable-auto-add-to-cart.png" alt="Enabling auto add to cart option" loading="lazy"
     decoding="async">
   <figcaption>Widget options</figcaption>
 </figure>
 
-The main advantage of using the Profy Buy X Get Y + Free gift app over Shopify’s native setup is that **promotional widget controls are directly integrated** into the offer setup screen — whereas native Shopify only allows you to create the discount logic, leaving promotion entirely up to you.
+The main advantage of using the Buy X Get Y+Auto add Free gift app over Shopify’s native setup is that **promotional widget controls are directly integrated** into the offer setup screen — whereas native Shopify only allows you to create the discount logic, leaving promotion entirely up to you.
 
 The **Widget Options** tab allows you to enable up to four integrated widgets to promote your “Buy X Get Y” and “Free Gift” deals: **Today’s Offer Widget**, **Upsell Popup**, **Product Page BXGY Announcement**, and **Success Notification**. You can toggle any combination of these widgets to dynamically display and highlight your offer across your store.
+
+You can also enable the **Auto Add to Cart** option, which **automatically adds reward products** to the customer's cart as soon as the purchase conditions are met. This eliminates the need for an upsell popup, providing a smoother shopping experience and making it easier for customers to claim their rewards.
 
 **Advanced Configuration**
 
@@ -119,7 +121,7 @@ The **Advanced Configuration** section lets you schedule your offer to run conti
 The video demonstration below shows all four promotional widgets in action, highlighting how they guide shoppers through every step of the buying journey to maximize your offer’s visibility and conversion rate:
 
 <figure>
-  <iframe width="100%" height="415" src="https://www.youtube.com/embed/Gb-HeEYjCJI?start=174" title="Buy X Get Y app widgets demo" frameborder="0" loading="lazy" fetchpriority="low"
+  <iframe width="100%" height="415" src="https://www.youtube.com/embed/Odt7DhMbOSw?si=V7QiNGCxR0lC3ykb&start=15" title="Buy X Get Y app widgets demo" frameborder="0" loading="lazy" fetchpriority="low"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <figcaption>Video demo of app widgets</figcaption>
