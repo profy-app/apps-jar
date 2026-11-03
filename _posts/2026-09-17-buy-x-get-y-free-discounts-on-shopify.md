@@ -16,15 +16,15 @@ In this guide, you will learn:
 
 Whether you’re looking for a simple native solution or an automated, high-converting app setup, this walkthrough covers everything you need to build, launch, and optimize your BOGO strategy.
 
-### Install the “Buy X Get Y+Auto add Free Gift” Shopify app
+### Install the “Profy Buy X Get Y+Buy 1 Get 1” Shopify app
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/profy-app-page.webp" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*a1qYb5yi-s4lKXF_kwjQRw.png" alt="Profy app page" loading="lazy"
+  <img src="/assets/blog/buy-x-get-y/profy-app-page.webp" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Kj453pU_VzePiasuAuKbrg.png" alt="Profy app page" loading="lazy"
     decoding="async">
   <figcaption>Profy app page</figcaption>
 </figure>
 
-Shopify doesn’t natively provide Buy X Get Y discount promotion widgets. We will install [**Buy X Get Y+Auto add Free Gift**](https://apps.shopify.com/profy-bogo-free-gift-upsell) Shopify app to create and promote these offers with product page announcements, upsell popups, Today’s Offer widgets, and success notifications.
+Shopify doesn’t natively provide Buy X Get Y discount promotion widgets. We will install [**Profy Buy X Get Y+Buy 1 Get 1**](https://apps.shopify.com/profy-bogo-free-gift-upsell) Shopify app to create and promote these offers with product page announcements, upsell popups, Today’s Offer widgets, and success notifications.
 
 Then, use the app’s analytics to measure offer performance, identify what works best, and optimize your promotions for higher conversions and sales.
 
@@ -128,7 +128,7 @@ The video demonstration below shows all four promotional widgets in action, high
 </figure>
 - **Today’s Offer Widget:** A persistent sticky button fixed to the side of the screen. When clicked, it opens a popup showcasing a full list of all **active Buy X Get Y and Free Gift deals across your store**.
 - **Upsell Popup:** Triggers automatically as soon as a **customer meets the “Buy” requirements**. It displays eligible reward products alongside their discounted prices, prompting shoppers to add the extra items to their cart to claim the deal.
-- **Product Page BXGY Announcement:** Displays applicable Buy X Get Y deals directly on the **product detail page _before_ a item is added to the cart**. This incentivizes hesitant browsers by highlighting the value of the promotion early in their decision-making process.
+- **Product Page BXGY Announcement:** Displays details of applicable Buy X Get Y deal directly on the **product detail page _before_ a item is added to the cart**. This incentivizes hesitant browsers by highlighting the value of the promotion early in their decision-making process.
 - **Success Notification:** Appears immediately after an offer is successfully added to the cart, providing clear confirmation to customers that **their discount has been applied to the order**.
 
 ### **Tracking Performance and Optimizing Your Buy X Get Y Campaigns**

@@ -32,12 +32,12 @@ As a result, **customers may not even know the offer exists** or understand how 
 ### Installing a Shopify App for Free Gifts
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/profy-app-page.webp" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*a1qYb5yi-s4lKXF_kwjQRw.png" alt="Profy app page" loading="lazy"
+  <img src="/assets/blog/buy-x-get-y/profy-app-page.webp" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Kj453pU_VzePiasuAuKbrg.png" alt="Profy app page" loading="lazy"
     decoding="async">
   <figcaption>Profy app page</figcaption>
 </figure>
 
-To overcome the limitations of Shopify’s default discount functionality, we’ll use the [**Buy X Get Y + Auto Add Free Gift**](https://apps.shopify.com/profy-bogo-free-gift-upsell) Shopify app.
+To overcome the limitations of Shopify’s default discount functionality, we’ll use the [**Profy Buy X Get Y+Buy 1 Get 1**](https://apps.shopify.com/profy-bogo-free-gift-upsell) Shopify app.
 
 **Link**: [https://apps.shopify.com/profy-bogo-free-gift-upsell](https://apps.shopify.com/profy-bogo-free-gift-upsell)
 

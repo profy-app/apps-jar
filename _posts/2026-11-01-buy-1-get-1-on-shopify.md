@@ -30,12 +30,12 @@ These limitations make it **harder for customers to discover and redeem** your B
 ### Installing a Shopify App for “Buy 1, Get 1 Free” Offers
 
 <figure>
-  <img src="/assets/blog/buy-x-get-y/profy-app-page.webp" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*a1qYb5yi-s4lKXF_kwjQRw.png" alt="Profy app page" loading="lazy"
+  <img src="/assets/blog/buy-x-get-y/profy-app-page.webp" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Kj453pU_VzePiasuAuKbrg.png" alt="Profy app page" loading="lazy"
     decoding="async">
   <figcaption>Profy app page</figcaption>
 </figure>
 
-To overcome the limitations of Shopify’s default discount functionality, we’ll install the [**Buy X Get Y + Auto Add Free Gift**](https://apps.shopify.com/profy-bogo-free-gift-upsell) Shopify app.
+To overcome the limitations of Shopify’s default discount functionality, we’ll install the [**Profy Buy X Get Y+Buy 1 Get 1**](https://apps.shopify.com/profy-bogo-free-gift-upsell) Shopify app.
 
 **Link**: [https://apps.shopify.com/profy-bogo-free-gift-upsell](https://apps.shopify.com/profy-bogo-free-gift-upsell)
 
