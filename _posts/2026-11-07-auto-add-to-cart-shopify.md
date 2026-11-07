@@ -18,9 +18,11 @@ Shopify’s built-in Buy X Get Y discounts **don't automatically add reward prod
 
 ### Shopify App for Auto Add to Cart with Buy X Get Y Promotion
 
-![](https://miro.medium.com/v2/resize:fit:700/1*bhLJA22pOr7puMxJ_tp66g.png)
-
-Profy app page
+<figure>
+  <img src="/assets/blog/buy-x-get-y/profy-app-page.webp" data-zoom-src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Kj453pU_VzePiasuAuKbrg.png" alt="Profy app page" loading="lazy"
+    decoding="async">
+  <figcaption>Profy app page</figcaption>
+</figure>
 
 Since **Shopify doesn't provide built-in Auto Add to Cart** functionality for Buy X Get Y promotions, we'll use a dedicated Shopify app. For this guide, we'll use [**Profy Buy X Get Y + Buy 1 Get 1**](https://apps.shopify.com/profy-bogo-free-gift-upsell?utm_source=chatgpt.com) to create promotional offers and automatically add free gifts or discounted reward products to the cart.
 
@@ -30,29 +32,37 @@ Link: [https://apps.shopify.com/profy-bogo-free-gift-upsell](https://apps.shopif
 
 To create a Buy X Get Y promotion, navigate to the **Offers** page and click the **Create Offer** button.
 
-![](https://miro.medium.com/v2/resize:fit:700/1*1gsYEaFJuQqzBvFMkENqNg.png)
-
-Create offer button
+<figure>
+  <img src="/assets/blog/auto-add-to-cart/create-offer-button.webp" data-zoom-src="/assets/blog/auto-add-to-cart/create-offer-button.webp" alt="Create offer button" loading="lazy"
+    decoding="async">
+  <figcaption>Create offer button</figcaption>
+</figure>
 
 In the first tab, **Offer Setup**, configure the Buy X condition. For this example, select **Buy 1** and choose the **collection of products** eligible for the offer.
 
-![](https://miro.medium.com/v2/resize:fit:700/1*TjzsO3jUCcDArDFRf9Wqrw.png)
-
-Buy X/Add product X Condition
+<figure>
+  <img src="/assets/blog/auto-add-to-cart/buy-x-condition.webp" data-zoom-src="/assets/blog/auto-add-to-cart/buy-x-condition.webp" alt="Buy X/Add product X condition" loading="lazy"
+    decoding="async">
+  <figcaption>Buy X/Add product X Condition</figcaption>
+</figure>
 
 Once the Buy X condition is configured, add the **Reward Condition**. For this example, we’ll offer one free gift from a selected collection when the customer adds an eligible Product X to their cart.
 
-![](https://miro.medium.com/v2/resize:fit:700/1*e5LEHWBTtTLs1agC4a-Ydg.png)
-
-Reward / Free gift selection
+<figure>
+  <img src="/assets/blog/auto-add-to-cart/reward-selection.webp" data-zoom-src="/assets/blog/auto-add-to-cart/reward-selection.webp" alt="Reward / Free gift selection" loading="lazy"
+    decoding="async">
+  <figcaption>Reward / Free gift selection</figcaption>
+</figure>
 
 ### Enabling Auto add Reward product to cart feature
 
 In the **Widget Options** tab, enable the **Auto Add to Cart** feature. Once enabled, the reward product or free gift will be automatically added to the cart when the customer meets the Buy X condition, instead of displaying an upsell popup.
 
-![](https://miro.medium.com/v2/resize:fit:700/1*vAneHS3X6m6ni1Whbls7ww.png)
-
-Enabling Auto Add to Cart
+<figure>
+  <img src="/assets/blog/free-gift/enable-auto-add-to-cart.png" data-zoom-src="/assets/blog/free-gift/enable-auto-add-to-cart.png" alt="Enabling auto add to cart option" loading="lazy"
+    decoding="async">
+  <figcaption>Enabling auto add to cart option</figcaption>
+</figure>
 
 ### Final result of Auto add to cart
 
