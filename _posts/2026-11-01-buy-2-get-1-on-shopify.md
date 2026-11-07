@@ -54,7 +54,7 @@ The app provides **four promotional widgets** that work together throughout the 
 Navigate to the **Offers** page and click the **Create Offer** button to start creating a new Buy 2 Get 1 Free discount.
 
 <figure>
-  <img src="/assets/blog/buy-2-get-1/create-offer-button.png" data-zoom-src="/assets/blog/buy-2-get-1/create-offer-button.png" alt="Create offer button" loading="lazy"
+  <img src="/assets/blog/buy-2-get-1/create-offer-button.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HhNG9EZo6pO1UjXEXNu2_Q.png" alt="Create offer button" loading="lazy"
     decoding="async">
   <figcaption>Create offer button</figcaption>
 </figure>

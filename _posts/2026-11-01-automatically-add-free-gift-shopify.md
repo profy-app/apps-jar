@@ -52,7 +52,7 @@ This ensures customers don’t miss out on available promotions. By making **fre
 Navigate to the **Offers** page and click **Create Offer** to start setting up a new Buy X Get Y discount.
 
 <figure>
-  <img src="/assets/blog/free-gift/create-offer-button.png" data-zoom-src="/assets/blog/free-gift/create-offer-button.png" alt="Create offer button" loading="lazy"
+  <img src="/assets/blog/free-gift/create-offer-button.png" data-zoom-src="/assets/blog/free-gift/create-offer-button.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HhNG9EZo6pO1UjXEXNu2_Q.png" alt="Create offer button" loading="lazy"
     decoding="async">
   <figcaption>Create offer button</figcaption>
 </figure>
