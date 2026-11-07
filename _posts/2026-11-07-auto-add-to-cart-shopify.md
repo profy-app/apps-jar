@@ -67,7 +67,7 @@ In the **Widget Options** tab, enable the **Auto Add to Cart** feature. Once ena
 ### Final result of Auto add to cart
 
 <figure>
-  <iframe width="100%" height="415" src="https://www.youtube.com/embed/jqNixZ-kGWo?si=pnSNRhaFMV3cD3Wh" title="Auto Add to cart Demo" frameborder="0" loading="lazy" fetchpriority="low"
+  <iframe width="100%" height="415" src="https://www.youtube.com/embed/XG-AVSClwbE?si=wqUn1gVmtyILYPRU" title="Auto Add to cart Demo" frameborder="0" loading="lazy" fetchpriority="low"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <figcaption>Auto Add to cart Demo</figcaption>
