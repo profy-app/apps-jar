@@ -33,7 +33,7 @@ Link: [https://apps.shopify.com/profy-bogo-free-gift-upsell](https://apps.shopif
 To create a Buy X Get Y promotion, navigate to the **Offers** page and click the **Create Offer** button.
 
 <figure>
-  <img src="/assets/blog/auto-add-to-cart/create-offer-button.webp" data-zoom-src="/assets/blog/auto-add-to-cart/create-offer-button.webp" alt="Create offer button" loading="lazy"
+  <img src="/assets/blog/free-gift/create-offer-button.png" data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HhNG9EZo6pO1UjXEXNu2_Q.png"  alt="Create offer button" loading="lazy"
     decoding="async">
   <figcaption>Create offer button</figcaption>
 </figure>
