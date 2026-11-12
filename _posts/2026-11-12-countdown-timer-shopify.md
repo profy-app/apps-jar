@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Add a Countdown Timer & Clock to Your Shopify Store for Your Next Sale"
-date: 2026-11-07 01:00:00 +0000
+date: 2026-11-12 01:00:00 +0000
 permalink: /blog/add-countdown-timer-clock-shopify-sale/
 excerpt: "Learn how to add countdown timer & clock for your next shopify store sale"
 ---
@@ -20,11 +20,11 @@ excerpt: "Learn how to add countdown timer & clock for your next shopify store s
 
 ### 1) Install “Profy Banner & Countdown Timer” Shopify plugin
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*B-MbYmbPKdUcLSMKk6ysJw.png)
-
-Profy app page
+<figure>
+  <img src="/assets/blog/countdown-timer/profy-app-page.webp" data-zoom-src="/assets/blog/countdown-timer/profy-app-page.webp" alt="Profy app page" loading="lazy"
+    decoding="async">
+  <figcaption>Profy app page</figcaption>
+</figure>
 
 Link: [https://apps.shopify.com/profy-promo-bar](https://web.archive.org/web/20250210230936/https://apps.shopify.com/profy-promo-bar?ref=contact)
 
@@ -34,35 +34,37 @@ The **Profy Banner & Countdown Timer** Shopify app makes it easy to create custo
 
 After installing the app, enable the **App Embed** from your Shopify theme editor to ensure the countdown timer displays correctly on your storefront.
 
-![](https://miro.medium.com/v2/resize:fit:598/1*6Egg7tlYWPD_VBmfwQyapg.png)
-
-app embed
+<figure>
+  <img src="/assets/blog/countdown-timer/app-embed.webp" data-zoom-src="/assets/blog/countdown-timer/app-embed.webp" alt="App embed" loading="lazy"
+    decoding="async">
+  <figcaption>App embed</figcaption>
+</figure>
 
 ### 3) Click on Create Banner and Select “Countdown timer”
 
 To create your first banner, navigate to the app’s **Home page** and click the “ **Create Banner”** button.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*-b-0paV3_T8p3dFSoU9jFA.png)
-
-Click on Create New Banner
+<figure>
+  <img src="/assets/blog/countdown-timer/create-new-banner.webp" data-zoom-src="/assets/blog/countdown-timer/create-new-banner.webp" alt="Click on Create New Banner" loading="lazy"
+    decoding="async">
+  <figcaption>Click on Create New Banner</figcaption>
+</figure>
 
 As the first step, choose where you want your banner to appear. You can select from **Top/Bottom Bar**, **Product Page**, **Inside Page Section**, or **Popup**.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*reZKqqWYDx15caAjQMtZ_w.png)
-
-Placement Options
+<figure>
+  <img src="/assets/blog/countdown-timer/placement-options.webp" data-zoom-src="/assets/blog/countdown-timer/placement-options.webp" alt="Placement options" loading="lazy"
+    decoding="async">
+  <figcaption>Placement Options</figcaption>
+</figure>
 
 In the second step, select **Countdown Timer** as the banner type to create a countdown timer for your Shopify store.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*LO92vqm5pVkHDBgjGMrWLQ.png)
-
-Select Countdown timer option
+<figure>
+  <img src="/assets/blog/countdown-timer/select-countdown-timer.webp" data-zoom-src="/assets/blog/countdown-timer/select-countdown-timer.webp" alt="Select Countdown timer option" loading="lazy"
+    decoding="async">
+  <figcaption>Select Countdown timer option</figcaption>
+</figure>
 
 For the countdown type, you can choose from three options based on your promotional requirements:
 
@@ -70,11 +72,11 @@ For the countdown type, you can choose from three options based on your promotio
 2. **Recurring Countdown**: Perfect for weekly recurring promotions, where the countdown resets on selected days, such as Tuesday or weekend sales.
 3. **Time Window**: Best suited for shipping deadline timers that reset daily, such as “ **Order within 4 hours for dispatch today.**”
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*5TaLURY4vT4qwSUolffX3w.png)
-
-Types of countdowns
+<figure>
+  <img src="/assets/blog/countdown-timer/countdown-types.webp" data-zoom-src="/assets/blog/countdown-timer/countdown-types.webp" alt="Types of countdowns" loading="lazy"
+    decoding="async">
+  <figcaption>Types of countdowns</figcaption>
+</figure>
 
 ### Sale Countdown: Till End Date
 
@@ -82,11 +84,11 @@ With this option, the timer **counts down to the end date** specified by the use
 
 The countdown timer displays the **remaining time until the sale ends**. Once the current date and time pass the configured end date, the **timer expires and is automatically hidden** from your storefront.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*k67dn8DU1YSqOzyLYROUyQ.png)
-
-Sale countdown till end date
+<figure>
+  <img src="/assets/blog/countdown-timer/sale-countdown-end-date.webp" data-zoom-src="/assets/blog/countdown-timer/sale-countdown-end-date.webp" alt="Sale countdown till end date" loading="lazy"
+    decoding="async">
+  <figcaption>Sale countdown till end date</figcaption>
+</figure>
 
 To create an end-date-based countdown, navigate to the **Countdown Setup** tab and select **Till End Date** as the countdown type. Set your desired end date and save the banner to activate the countdown timer.
 
@@ -94,11 +96,11 @@ To create an end-date-based countdown, navigate to the **Countdown Setup** tab a
 
 This option lets you create an **evergreen countdown timer** that counts down from a specified duration and **automatically resets** when the countdown reaches zero.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*CL4tcofh7EtjARNBzaIlEA.png)
-
-Weekly recurring coundown
+<figure>
+  <img src="/assets/blog/countdown-timer/weekly-recurring-countdown.webp" data-zoom-src="/assets/blog/countdown-timer/weekly-recurring-countdown.webp" alt="Weekly recurring countdown" loading="lazy"
+    decoding="async">
+  <figcaption>Weekly recurring countdown</figcaption>
+</figure>
 
 For example, suppose you want to offer discounts on selected products **every Tuesday and automatically repeat the promotion each week** without having to configure it again.
 
@@ -132,11 +134,11 @@ checkAndHideBannerForm()
 
 This option lets you display a countdown timer within a **specified time window each day**. The timer automatically resets daily, making it ideal for recurring promotions and shipping deadline notifications.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*WqJmz-_HHbWsgu-DAGOqdA.png)
-
-Time window countdown
+<figure>
+  <img src="/assets/blog/countdown-timer/time-window-countdown.webp" data-zoom-src="/assets/blog/countdown-timer/time-window-countdown.webp" alt="Time window countdown" loading="lazy"
+    decoding="async">
+  <figcaption>Time window countdown</figcaption>
+</figure>
 
 For example, suppose you want to display a shipping deadline timer that promises **next-day delivery for orders placed before 2 PM**.
 
@@ -146,31 +148,31 @@ The timer will count down to 2 PM and automatically disappear once the deadline 
 
 ### 4) **Enter banner content**
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*2jxBXRJ1thsBtctF7CQgvw.png)
-
-Basic details section
+<figure>
+  <img src="/assets/blog/countdown-timer/basic-details.webp" data-zoom-src="/assets/blog/countdown-timer/basic-details.webp" alt="Basic details section" loading="lazy"
+    decoding="async">
+  <figcaption>Basic details section</figcaption>
+</figure>
 
 Based on your requirements, enter the appropriate **banner message and button text**, and configure the **destination URL** where customers should be redirected when they click the button.
 
 ### 5) Choose which pages to display on
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*cZss8tCttuWkon7cYxDkog.png)
-
-Banner targeting options
+<figure>
+  <img src="/assets/blog/countdown-timer/banner-targeting.webp" data-zoom-src="/assets/blog/countdown-timer/banner-targeting.webp" alt="Banner targeting options" loading="lazy"
+    decoding="async">
+  <figcaption>Banner targeting options</figcaption>
+</figure>
 
 By default, the **banner is displayed across all pages** of your Shopify store. However, you can customize the banner targeting to display it only on selected pages.
 
 ### **6) Customize countdown timer design base on your Store theme**
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*5x9sQpDb0RnRmcy7L3jg3A.png)
-
-Timer Settings
+<figure>
+  <img src="/assets/blog/countdown-timer/timer-settings.webp" data-zoom-src="/assets/blog/countdown-timer/timer-settings.webp" alt="Timer settings" loading="lazy"
+    decoding="async">
+  <figcaption>Timer Settings</figcaption>
+</figure>
 
 Choose from **five unique countdown timer designs** and customize the **label, digit, and background colors** to match your store’s branding and style.
 
@@ -178,18 +180,18 @@ Choose from **five unique countdown timer designs** and customize the **label, d
 
 In the **Visibility Settings** tab, you can configure the banner’s display position (top or bottom), enable the sticky banner option, and set its start and end dates. You can also customize additional visibility settings to control when and where the banner appears on your storefront.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*gy0hW2-fc-Xa6W6OZXGOww.png)
-
-Visibility settings
+<figure>
+  <img src="/assets/blog/countdown-timer/visibility-settings.webp" data-zoom-src="/assets/blog/countdown-timer/visibility-settings.webp" alt="Visibility settings" loading="lazy"
+    decoding="async">
+  <figcaption>Visibility settings</figcaption>
+</figure>
 
 ### 8) Final result
 
 Once saved, the countdown timer banner will appear in your selected placement on the storefront, displaying the timer according to the countdown settings configured during banner setup.
 
-Press enter or click to view image in full size
-
-![](https://miro.medium.com/v2/resize:fit:700/1*_k_uBL9BOO8Xd_PZhbY2ww.png)
-
-Final result
+<figure>
+  <img src="/assets/blog/countdown-timer/final-result.webp" data-zoom-src="/assets/blog/countdown-timer/final-result.webp" alt="Final result" loading="lazy"
+    decoding="async">
+  <figcaption>Final result</figcaption>
+</figure>
