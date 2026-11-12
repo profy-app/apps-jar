@@ -21,9 +21,10 @@ excerpt: "Learn how to add countdown timer & clock for your next shopify store s
 ### 1) Install “Profy Banner & Countdown Timer” Shopify plugin
 
 <figure>
-  <img src="/assets/blog/countdown-timer/profy-app-page.webp" data-zoom-src="/assets/blog/countdown-timer/profy-app-page.webp" alt="Profy app page" loading="lazy"
+  <img src="/assets/blog/moving-banner-marquee/profy-app-page.webp"
+  data-zoom-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*B-MbYmbPKdUcLSMKk6ysJw.png" alt="Profy Banner and Countdown Timer app page" loading="lazy"
     decoding="async">
-  <figcaption>Profy app page</figcaption>
+  <figcaption>Profy Banner & Countdown Timer on the Shopify App Store</figcaption>
 </figure>
 
 Link: [https://apps.shopify.com/profy-promo-bar](https://web.archive.org/web/20250210230936/https://apps.shopify.com/profy-promo-bar?ref=contact)
@@ -35,9 +36,9 @@ The **Profy Banner & Countdown Timer** Shopify app makes it easy to create custo
 After installing the app, enable the **App Embed** from your Shopify theme editor to ensure the countdown timer displays correctly on your storefront.
 
 <figure>
-  <img src="/assets/blog/countdown-timer/app-embed.webp" data-zoom-src="/assets/blog/countdown-timer/app-embed.webp" alt="App embed" loading="lazy"
+  <img src="/assets/article1/enable_app.webp" alt="Enable app embed" loading="lazy"
     decoding="async">
-  <figcaption>App embed</figcaption>
+  <figcaption>Enable app embed</figcaption>
 </figure>
 
 ### 3) Click on Create Banner and Select “Countdown timer”
